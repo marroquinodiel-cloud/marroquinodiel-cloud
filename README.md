@@ -41,7 +41,8 @@ https://github.com/marroquinodiel-cloud/aspnet-library-management-system
 ---
 
 ## 📫 Contact
-
+Email: marroquinodiel@gmail.com
+LinkedIn: www.linkedin.com/in/odielmarroquin
 GitHub: https://github.com/marroquinodiel-cloud
 
 <!--
